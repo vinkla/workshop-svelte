@@ -29,6 +29,10 @@ Svelte is a modern JavaScript framework that aims to make building web applicati
 2. Before commencing with this enlightening and [engaging exercise](https://www.youtube.com/watch?v=84c7mRP7PLw), the ever-helpful teacher will provide you with a clear and comprehensive demonstration of the correct assembly process, skillfully utilizing the expansive screen at the front of the room to ensure maximum understanding and clarity for all eager participants.
 
     Leveraging the [kanye.rest](https://kanye.rest/) API, develop an elegant Svelte application that dynamically presents a random Kanye West quote each time the user engages with an interactive button.
+
+    ```bash
+    npm create vite@latest kanye-rest -- --template svelte
+    ```
     
     https://user-images.githubusercontent.com/499192/232570857-1dc36896-71b1-448e-a5f8-4b78fd1ef9a2.mp4
 
